@@ -1,0 +1,14 @@
+{
+  "name": "pinata-ghost-storage",
+  "version": "0.1.0",
+  "description": "Pinata storage adapter for Ghost",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.26",
+    "ghost-ignition": "^4.6.3",
+    "ghost-storage-base": "^1.0.0"
+  }
+}
