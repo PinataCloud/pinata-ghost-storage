@@ -38,8 +38,8 @@ Now, you need to configure your Ghost environment. Back at the root of the direc
 
 ```json
   "storage": {
-    "active": "pinata-storage",
-    "pinata-storage": {
+    "active": "pinata-ghost-storage",
+    "pinata-ghost-storage": {
       "gatewayUrl": "https://yourgatewayurl.com", 
       "pinataKey": "Pinata API Key", 
       "pinataSecret": "Pinata API Secret"
